@@ -1,8 +1,8 @@
-## Designs
+# Food Delivery App With React Native
 
-https://dribbble.com/shots/14527824-Food-Delivery-Mobile-App
-
-https://www.byprogrammers.com/2020/11/how-to-integrate-google-maps-in-react-native-app/
+<img width="1920" alt="screenshoot" src="https://github.com/tugane/React-Native-skin-care-app/assets/images/readme-img/app-img1.png">
+<img width="1920" alt="screenshoot" src="https://github.com/tugane/React-Native-skin-care-app/assets/images/readme-img/app-img2.png">
+<img width="1920" alt="screenshoot" src="https://github.com/tugane/React-Native-skin-care-app/assets/images/readme-img/app-img3.png">
 
 ## Run
 
